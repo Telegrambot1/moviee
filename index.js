@@ -6,7 +6,7 @@ const request = require('request');
 
 const token = '390836380:AAGiwH-1S0mW8JcRALEWhxEpLqo88gpY-Nk'; //填写你在BotFather申请到的token
 
-const tmdbapi = '';  //填写你在TMDb申请到的API Key
+const tmdbapi = '63678d50e2a7aab67df4b3b61fc268fe';  //填写你在TMDb申请到的API Key
 
 const bot = new TelegramBot(token, {polling: true});
 
