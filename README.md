@@ -6,7 +6,7 @@
 
 # 简介
 
-这是一个用于检索电影、演员以及获取电影资讯的 Telegram Bot。  
+这是一个用于检索电影、演员以及获取电影资讯的 Telegram Bot。  https://moviee-bot.herokuapp.com
 
 点击链接：https://t.me/moviee_info_bot 跳转到 Telegram 即可使用。
 
